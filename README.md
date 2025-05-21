@@ -171,6 +171,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 🌐 Links
 - 🔗 [Documentation (optional)](https://github.com/your-username/AdvancePatientMonitoring/wiki)
+- 🔗 [Buisness Plan](https://drive.google.com/file/d/1qhWqfrWm_Aeyf7ocscaptGyd1arihvFN/view?usp=drive_link)
 
 ---
 
