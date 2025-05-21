@@ -140,12 +140,12 @@ char writeAPIKey[] = "YOUR_WRITE_API_KEY";
 ## 🧠 Future Enhancements
 We're always looking to improve and expand the capabilities of this system. Here are some planned future enhancements:
 
-- ✅ Advanced Non-invasive Glucose Monitoring Hardware: Investigating and integrating more accurate and reliable non-invasive glucose sensing technologies as they mature.
-- 📱 Android/iOS App Development: Creating a dedicated mobile application for seamless real-time health tracking, historical data analysis, and user-friendly interaction.
-- 📩 SMS or Email Alert System: Implementing automated notifications for caregivers or patients when vital signs exceed predefined healthy thresholds.
-- ☁️ Cloud Database & EHR Integration: Exploring secure cloud database solutions and potential integration with Electronic Health Record (EHR) systems for comprehensive patient management.
-- 📊 Local Data Storage (SD Card Module): Adding an SD card module for offline data logging, useful when WiFi connectivity is intermittent or unavailable.
-- ⚡ Power Optimization: Implementing advanced power management techniques, such as deep sleep modes, to significantly extend battery life for portable applications. 
+- ✅ **Advanced Non-invasive Glucose Monitoring Hardware**: Investigating and integrating more accurate and reliable non-invasive glucose sensing technologies as they mature.
+- 📱**Android/iOS App Development**: Creating a dedicated mobile application for seamless real-time health tracking, historical data analysis, and user-friendly interaction.
+- 📩 **SMS or Email Alert System**: Implementing automated notifications for caregivers or patients when vital signs exceed predefined healthy thresholds.
+- ☁️ **Cloud Database & EHR Integration**: Exploring secure cloud database solutions and potential integration with Electronic Health Record (EHR) systems for comprehensive patient management.
+- 📊 **Local Data Storage (SD Card Module)**: Adding an SD card module for offline data logging, useful when WiFi connectivity is intermittent or unavailable.
+- ⚡ **Power Optimization**: Implementing advanced power management techniques, such as deep sleep modes, to significantly extend battery life for portable applications. 
 
 ---
 
